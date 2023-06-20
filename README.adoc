@@ -1,7 +1,9 @@
 ﻿= Unidad 6. Control y robótica.
 Francisco L. Servén
+:lang: es
+include::https://github.com/asciidoctor/asciidoctor/blob/v2.0.x/data/locale/attributes.adoc
 :sectnums:
-:toc-title: Contenidos:
+//:toc-title: Contenidos:
 :toc:
 :stem: latexmath
 :text-justify:
