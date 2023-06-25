@@ -10,11 +10,11 @@ Francisco L. Servén
 
 <<<
 
-ifdef::backend-html5[Solo para HTML]
+ifdef::backend-html5[]
 ++++
 <script src="https://darshandsoni.com/asciidoctor-skins/switcher.js" type="text/javascript"></script>
 ++++
-endif::[Solo para HTML]
+endif::[]
 
 ifndef::backend-pdf[]
 [cols="1,1,1", width=100%]
