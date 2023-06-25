@@ -16,7 +16,7 @@ ifdef::backend-html5[]
 ++++
 endif::[]
 
-IMPORTANT: Puedes descargante una versión en PDF desde https://github.com/flserv/asciidoc/blob/gh-pages/ebook.pdf[aquí.]
+IMPORTANT: Puedes descargarte una versión en PDF desde https://flserv.github.io/asciidoc/ebook.pdf[aquí.]
 
 ifndef::backend-pdf[]
 [cols="1,1,1", width=100%]
