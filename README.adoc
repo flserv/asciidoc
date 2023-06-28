@@ -9,6 +9,7 @@ Francisco L. Servén
 :text-align: justify
 :icons: font
 :allow-uri-read:
+:important-caption: :exclamation:
 
 <<<
 
