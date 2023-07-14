@@ -368,3 +368,17 @@ x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
 
 Inline equation works too! latexmath:[a^2+b^2=c^2]. Or as stem
 stem:[a^2+b^2=c^2]. Pretty nice, huh?
+
+Some useful text! Formula for quadratic root:
+
+[graphviz]
+....
+digraph foo {
+  node [style=rounded]
+  node1 [shape=box]
+  node2 [fillcolor=yellow, style="rounded,filled", shape=diamond]
+  node3 [shape=record, label="{ a | b | c }"]
+
+  node1 -> node2 -> node3
+}
+....
