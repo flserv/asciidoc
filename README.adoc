@@ -358,3 +358,13 @@ El término *Robótica* fue acuñado por Isaac Asimov (1920-1992) para describir
 image::https://personajeshistoricos.com/wp-content/uploads/2018/05/isaac-asimov-28.jpg[Isaac Asimov, align=center, width=400]
 
 Isaac Asimov fue un escritor y profesor de bioquímica en la facultad de medicina de la universidad de Boston de origen judío ruso, naturalizado estadounidense, conocido por ser un prolífico autor de obras de ciencia ficción, historia y divulgación científica.
+
+Some useful text! Formula for quadratic root:
+
+[stem]
+++++
+x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
+++++
+
+Inline equation works too! latexmath:[a^2+b^2=c^2]. Or as stem
+stem:[a^2+b^2=c^2]. Pretty nice, huh?
