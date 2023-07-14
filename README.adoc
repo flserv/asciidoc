@@ -10,6 +10,7 @@ Francisco L. Servén
 :icons: font
 :allow-uri-read:
 :important-caption: :exclamation:
+:kroki-server-url: https://kroki.io
 
 <<<
 
