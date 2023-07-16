@@ -11,6 +11,7 @@ Francisco L. Servén
 :allow-uri-read:
 :important-caption: :exclamation:
 :kroki-server-url: https://kroki.io
+:kroki-fetch-diagram:
 
 <<<
 
