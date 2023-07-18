@@ -375,13 +375,28 @@ Some useful text! Formula for quadratic root:
 
 [graphviz]
 ....
-digraph foo {
-  node [style=rounded]
-  node1 [shape=box]
-  node2 [fillcolor=yellow, style="rounded,filled", shape=diamond]
-  node3 [shape=record, label="{ a | b | c }"]
-
-  node1 -> node2 -> node3
+digraph D {
+  subgraph cluster_p {
+    label = "Kroki";
+    subgraph cluster_c1 {
+      label = "Server";
+      Filebeat;
+      subgraph cluster_gc_1 {
+        label = "Docker/Server";
+        Java;
+      }
+      subgraph cluster_gc_2 {
+        label = "Docker/Mermaid";
+        "Node.js";
+        "Puppeteer";
+        "Chrome";
+      }
+    }
+    subgraph cluster_c2 {
+      label = "CLI";
+      Golang;
+    }
+  }
 }
 ....
 
